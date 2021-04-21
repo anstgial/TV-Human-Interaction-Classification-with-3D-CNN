@@ -4,3 +4,5 @@ A comparison was completed between two different 3D CNN architectures, with and 
 
 The code was implemented at Google Colab setup and Keras and Tensorflow was used to create the 3D Convolutional Neural Network. The dataset was provided by the Oxford University and It can be found in the link below:
 https://www.robots.ox.ac.uk/~vgg/data/tv_human_interactions/
+
+Contact me at: anastasisgial@gmail.com for any questions or reccomendations.
