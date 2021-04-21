@@ -1,4 +1,4 @@
-# This project was delivered as my Master Thesis project for the master degree in Data Science & Society from Tilburg University.
+# This project was delivered as my Master Thesis project for MSc in Data Science & Society at Tilburg University.
 
 A comparison was completed between two different 3D CNN architectures, with and without data augmentation, to see if one can achieve equal or better classification performance compared to past studies.
 
